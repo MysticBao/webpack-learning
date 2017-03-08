@@ -4,14 +4,14 @@
 // notification.announce('alert message')
 // notification.log('test')
 
-//require('./main.css')
+require('./main.scss')
 
-class Form {
-    constructor() {
-        // alert('Babel')
-        let numbers = [2,3,4].map(number => number * 2)
-        console.log(numbers)
-    }    
-}
+// class Form {
+//     constructor() {
+//         // alert('Babel')
+//         let numbers = [2,3,4].map(number => number * 2)
+//         console.log(numbers)
+//     }    
+// }
 
-new Form()
+// new Form()
